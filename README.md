@@ -4,7 +4,14 @@ Python's Essential Libraries: A Practical Guide to Data Analysis and Visualizati
 
 <img title="JRP Python for Data Mastery: Data Analytics with Top Libraries Course New Banner" alt="JRP Python for Data Mastery: Data Analytics with Top Libraries Course New Banner" src="https://raw.githubusercontent.com/JobReadyProgrammer/Python-for-Data-Mastery-Data-Analytics-with-Top-Libraries/refs/heads/main/JRP%20Python%20for%20Data%20Mastery%20Data%20Analytics%20with%20Top%20Libraries%20Course%20New%20Banner.jpg">
 
-Source Code for the Python for Data Mastery: Data Analytics with Top Libraries Course from JRP (Job Ready Programmer)
+This GitHub Repository will include the Source Code for the Python for Data Mastery: Data Analytics with Top Libraries Course from JRP (Job Ready Programmer)
+
+### Note for newcomers
+
+Checkout our complete course on the following platforms:
+1. [Udemy](https://www.udemy.com/course/python-for-data-mastery-data-analytics-with-top-libraries/)
+2. [Job Ready Programmer (JRP)](https://www.jobreadyprogrammer.com/p/python-for-data-analytics-and-visualization)
+3. [JRP Membership (Includes Data Analyst & Software Developer Career Paths)](https://www.jobreadyprogrammer.com/p/all-access-pass?coupon_code=GET_HIRED_ALREADY)
 
 ## About the course :
 
